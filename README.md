@@ -38,6 +38,9 @@ If you have any questions about the repo. open an issue or
 contact me directly at KorbinKSargent@gmail.com. You can find more of my work at 
 github.com/Korbin-Sargent.
 
+
+Screen Shots of Example README below:
+
 ![Screen Shot 2021-08-20 at 7 58 06 PM](https://user-images.githubusercontent.com/87394831/130307036-23660faa-a24b-4f8a-bedf-7a9f51cd9f0b.png)
 ![Screen Shot 2021-08-20 at 7 57 48 PM](https://user-images.githubusercontent.com/87394831/130307039-3ddefff7-c87e-4694-9926-339fa28258bb.png)
 
